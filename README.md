@@ -12,9 +12,6 @@ Right now I am working at Amerilife as a Data Scientist!
 
 I love martial-arts, hiking, traveling and cooking etc. I'm a strong believer in the importance of 💚 ecology, and especially reducing waste at a personal level and local and national political actions. I am very passionate abou politics, but I do reign over this passion.  I'm a big fan of memes, :tv: various TV shows, movies, :video_game: video-games and :game_die: fantasy. I still play Gurps with friends.
 
-### My gear!! 
-
-💻 Personal gear is a custom Desktop, running Windows 10 (for gaming) and a ubuntu server. Nowadays I program mostly on VSCode and I use for the longest R-Studio. 
 
 ---
 
